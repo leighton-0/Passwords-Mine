@@ -9,4 +9,4 @@ renamed pw2
 
 password.txt file is the final file. Blank lines removed using ==> sed -i '/^$/d' file.txt
 
-curl 
+curl https://raw.githubusercontent.com/leighton-0/Passwords-Mine/main/password.txt
