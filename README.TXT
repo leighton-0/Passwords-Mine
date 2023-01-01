@@ -8,3 +8,5 @@ merged 2 lists
 renamed pw2
 
 password.txt file is the final file. Blank lines removed using ==> sed -i '/^$/d' file.txt
+
+curl 
